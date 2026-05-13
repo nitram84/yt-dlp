@@ -470,7 +470,6 @@ from .dplay import (
     DPlayIE,
     FoodNetworkIE,
     GoDiscoveryIE,
-    HGTVDeIE,
     HGTVUsaIE,
     InvestigationDiscoveryIE,
     ScienceChannelIE,
